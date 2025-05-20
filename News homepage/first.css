@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.aside_main {
+    height: 535px;
+}
+.container.hero_image {
+    height: 400px;
+}
+.hero_image{
+    height: 100%;
+}
+.aside_main h2{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-weight: bolder;
+}
+.aside_main h1{
+    padding: 20px;
+    color: rgba(255, 139, 97, 0.81);
+}
+.aside_main p{
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.container.cardes.pt-5.d-flex.mt-5 {
+    column-gap: 20px;
+}
+.card.mb-3 {
+    border: none;
+}
+h5.card-title {
+    color: #faa218;
+}
+img.img-fluid.rounded-start {
+    height: 100%;
+}
